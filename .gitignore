@@ -1,0 +1,5 @@
+/dataSet/*
+/load_data/*
+/weight/*
+train_sgei.txt
+valid_sgei.txt
